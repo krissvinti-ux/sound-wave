@@ -3,6 +3,11 @@
 }
 
 .text-pink{
-  color:#d63384;
+  color:#066728;
 }
 
+@media (max-width: 576px) {
+  .display-2 {
+    font-size: 2.6rem;
+  }
+}
